@@ -1,0 +1,12 @@
+Commandline
+
+Open the command prompt and check whether python is installed.
+python --version
+If python is not installed need to install it.
+If it is installed go to the respective folder where the code is and run
+pyhton filename.py
+ex: python assignment.py
+Then the code will run on the command line.
+
+VSCode
+Install python extension in visual studio code. Then run the code and the output will be seen in the terminal.
